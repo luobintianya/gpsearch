@@ -3,6 +3,7 @@
 Generated*.java
 classes/
 gensrc/
+target/
 
 #.prefs
 *.prefs
